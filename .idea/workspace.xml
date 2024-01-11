@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f46235b2-e134-4869-8436-cdaf269ee632" name="Changes" comment="Homework second">
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="f46235b2-e134-4869-8436-cdaf269ee632" name="Changes" comment="Homework second finish" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +74,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705002014703</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Homework second finish">
+      <option name="closed" value="true" />
+      <created>1705002438047</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705002438047</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,6 +99,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Homework" />
     <MESSAGE value="Homework second" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework second" />
+    <MESSAGE value="Homework second finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework second finish" />
   </component>
 </project>
